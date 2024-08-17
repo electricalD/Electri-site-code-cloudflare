@@ -1,0 +1,55 @@
+/* General Styles */
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #000; /* Black background */
+    color: #fff; /* White text for contrast */
+}
+
+header {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #333; /* Darker background for the header */
+}
+
+h1 {
+    font-size: 3rem;
+    margin: 0;
+}
+
+p {
+    font-size: 1.2rem;
+    margin: 20px 0;
+}
+
+section {
+    padding: 40px;
+    margin: 20px;
+    background-color: #222; /* Dark grey background for content sections */
+    border-radius: 10px;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #111; /* Even darker background for the footer */
+}
+
+footer p {
+    margin: 0;
+}
